@@ -1,0 +1,14 @@
+    <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500">
+        <polygon points="760,240 500,80 740,300" fill="white" stroke="purple" stroke-width="5"/>
+        <circle cx="800" cy="300" r="150" fill="purple"/>
+        <circle cx="760" cy="280" r="40" fill="white"/>
+        <circle cx="760" cy="290" r="40" fill="purple"/>
+        <line x1="734" y1="260" x2="705" y2="240" stroke="white" stroke-width="3"/>
+        <line x1="745" y1="245" x2="734" y2="220" stroke="white" stroke-width="3"/>
+        <line x1="765" y1="245" x2="774" y2="220" stroke="white" stroke-width="3"/>
+        <line x1="790" y1="255" x2="810" y2="230" stroke="white" stroke-width="3"/>
+        <circle cx="660" cy="360" r="40" fill="white"/>
+        <circle cx="800" cy="300" r="150" fill="none" stroke="purple" stroke-width="5"/>
+        <circle cx="680" cy="360" r="10" fill="purple"/>
+        <ellipse cx="800" cy="450" rx="120" ry="15" fill="purple" opacity="0.5"/>
+    </svg>
